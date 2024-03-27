@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**supermairo/supermairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yuto (he/him) from Japan.
 
-Here are some ideas to get you started:
+🔭 You can find more about me and what I'm up to on my blog: 
+[coming soon]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/supermairo/)
+
+## What I use
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+
