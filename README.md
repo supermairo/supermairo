@@ -2,8 +2,8 @@
 
 I'm Yuto (he/him) from Japan.
 
-🔭 You can find more about me and what I'm up to on my blog: 
-[coming soon]
+🔭 You can find more about me and what I'm up to on my website: 
+[https://www.yutoshiota.com/]
 
 ## Social Media
 
